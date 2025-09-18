@@ -1,6 +1,6 @@
 # FineTuning-BioSummary
 
-DPO fine-tuning project for OpenAI 4.1-nano using human preference data from Agent-BioSummary.
+DPO fine-tuning project for OpenAI 4.1-nano using human preference data (evals) from Agent-BioSummary.
 
 ## Overview
 
